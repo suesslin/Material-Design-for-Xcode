@@ -1,6 +1,7 @@
 Material Design for Xcode
 ========================
-
+![alt text](https://github.com/luki/Material-Design-for-Xcode/blob/master/preview_light.png "Light Theme Preview")
+![alt text](https://github.com/luki/Material-Design-for-Xcode/blob/master/preview_dark.png "Dark Theme Preview")
 ## Information
 This theme was made in Xcode 8.0 beta (8S128d) and may not work with older versions.
 
